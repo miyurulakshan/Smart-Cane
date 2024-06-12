@@ -1,4 +1,4 @@
-Brand Name: TrueSight
+Brand Name: TrueSight<br/>
 Meaning:
 "TrueSight" combines "True," which conveys authenticity, reliability, and trust, with "Sight," which directly relates to vision and seeing. Together, the name implies that the product provides a genuine and trustworthy aid to vision, enhancing the user's perception of their environment.
 
