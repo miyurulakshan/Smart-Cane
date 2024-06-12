@@ -1,10 +1,6 @@
-Brand Name: TrueSight<br/>
-Meaning:
-"TrueSight" combines "True," which conveys authenticity, reliability, and trust, with "Sight," which directly relates to vision and seeing. Together, the name implies that the product provides a genuine and trustworthy aid to vision, enhancing the user's perception of their environment.
-
-Idea Expressed:
-The name "TrueSight" suggests that the smart cane offers an accurate and dependable means of navigating the world, effectively giving users a form of "true sight" or heightened spatial awareness. It emphasizes the product's role in providing clarity and confidence to blind individuals, ensuring they can move with greater independence and safety. The name evokes a sense of empowerment, precision, and enhanced perception, highlighting the advanced technology and thoughtful design behind the smart cane.
-
+1. Guidelight<br/>
+Meaning: A combination of "Guide" and "Light," suggesting direction and illumination.
+Idea Expressed: This name implies that the smart cane guides users safely and illuminates their path, metaphorically lighting up their way to better navigate their surroundings.
 
 Functionalities
 
