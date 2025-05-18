@@ -1,3 +1,5 @@
+![Care Cane Logo](Color_Fill_31.PNG)
+
 # Care Cane  
 **“Seeing Beyond Boundaries”**
 
